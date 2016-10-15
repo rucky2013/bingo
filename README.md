@@ -1,2 +1,2 @@
 # bingo
-bingo是居于dubbo，hdoop架构开发的在线项目管理工具。
+bingo是基于dubbo，hdoop架构开发的在线项目管理工具。
